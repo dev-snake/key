@@ -1,2 +1,2 @@
 # key
-- Tắt phím nền Fn + Ctrl
+- Tắt phím nền viền Fn + Ctrl
